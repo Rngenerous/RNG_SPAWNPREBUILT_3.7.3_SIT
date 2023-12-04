@@ -7,10 +7,14 @@ INCLUDES RNG SPAWNMOD PREBUILT
 DOWNLOAD HERE - https://pixeldrain.com/u/wYK5bCc4
 
 fixed no bots on streets 3.7.3
+
 fixed no pmc in raid 
+
 fixed low spawns on reserve 
+
 made ai amount selector better reflect amounts
 
+fixed factions killing wrong side (maybe)
 
 
 
