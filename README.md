@@ -16,7 +16,7 @@ fixed low spawns on reserve
 
 made ai amount selector better reflect amounts
 
-fixed factions killing wrong side (maybe)
+
 
 
 
