@@ -17,7 +17,7 @@ fixed low spawns on reserve
 made ai amount selector better reflect amounts
 
 
-
+Known issues- scav on labs, 
 
 
 
