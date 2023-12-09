@@ -1,7 +1,8 @@
 # RNG_SPAWNPREBUILT_3.7.3_SIT
 ------------------------------------
 
-#OUTDATED
+OUTDATED 
+BUILD UR OWN SERVER AND USE RNG_SPAWN_MOD
 
 
 
